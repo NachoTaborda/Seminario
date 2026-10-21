@@ -1,0 +1,11 @@
+- paso 3 comprar libro pasar foto de los montos bien recortada, revisar versionados 1.05 R03??? HECHO LO PRIMERO
+- agregar una clase llamada "método de pago" en el DCML, se relaciona con usuario y pago
+- crear caso de uso para los métodos de pago o ver donde agregarlo
+- actualizar la matriz crud y la lista de casos de uso!!!!!!!!!
+- registrar lectura paso 1.a.1 falta mensaje y la foto del mensaje, falta la imagen de los 4.a.1 y 4.a.2, revisar si faltan otros!!!!
+- gestionar envio editar el nombre, agregar pantalla faltante en paso 1, cambiar a diccionario de datos de lo que muestra el sistema en el paso 1, agregar resumen de compra en la pantalla que muestra el paso 2.1, en el 2.1.2.a.1 falta el diccionario de datos y revisar que los mismos estén en el DCML, cambiar el atributo 'localidad' de usuario a envio, agregar datos de contacto del formulario en el DCML, actualizar el paso 2.1 a 2 y así.
+- publicar venta intercambio actualizar paso 2.1 a 2 y así, actualizar paso 2 'categoria_libro' a 'genero' y 'descripcion' a 'sinopsis', agregar precio en el dcml en PublicacionVenta, falta fecha de publicación en PublicacionVenta DCML, borrar futuro_comprador del 2.1.1, revisar las mismas correcciones para la parte de intercambio
+- reporte de géneros mas leídos esta joya
+- reporte de libros mas vendidos que muestre más datos para que tenga sentido
+- suprimir reseña unificar formato de mensaje de error en el axure y actualizar las fotos en el documento
+LOS QUE NO ESTÉN MENCIONADOS ES PORQUE NO LLEGAMOS, REVISAR QUE NO TENGAN LOS MISMOS ERRORES QUE LOS QUE ESTÁN ANOTADOS ARRIBA :D
