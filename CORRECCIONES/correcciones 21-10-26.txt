@@ -1,0 +1,15 @@
+- Nos agregaron la entrega 4.
+MDCP "Muestra de Datos para Casos de prueba": describe todas las tablas de la base de datos y sus atributos con ejemplos de los mismos.
+DCMF "Diagrama de Clase Modelo Físico" (???)
+DAS "Documento Arquitectura de Software": describe las distintas decisiones de arquitectura que tenemos que hacer en el proyecto.
+
+- [ ] Realizar las decisiones de arquitectura.
+- [ ] Terminar los casos de uso de libro (014, 015, 016).
+- [ ] Dividirnos los nuevos archivos (son 3 nuevos así que haríamos un archivo entre dos personas)
+
+
+
+- Santi está arreglando la LCU y la MCCU
+- Nacho está corrigiendo el DCML
+
+
